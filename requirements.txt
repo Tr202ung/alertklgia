@@ -1,4 +1,4 @@
-python-binance==0.7.5
+python-binance==1.0.19
 pandas
 numpy
 APScheduler==3.2.0
